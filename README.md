@@ -1,7 +1,7 @@
 # Tutor-Student-Portal-Website
 This is a tutor student portal website which is made using c# language using Visual Studio 2012 Ultimate software.
 
-This is basically a tution based website.
+This is basically a tuition based website.
 
 This include 3 type login. 
   1. Admin who is having access of everything.
