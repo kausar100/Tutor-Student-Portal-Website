@@ -10,9 +10,9 @@ This include 3 type login.
  
 Once a user login as a Student he/she can have different facility such as
   1. can find suitable Tutor by searching and this need to filling requirement
-  2. also ask for tutor for his/her own requirement
+  2. also ask for tutor for his/her own interest
   3. can review on tutor
 
 Once a user login as a Tutor he/she can have different facility such as
-  1. can find suitable Student by searching and this need to filling requirement
-  2. also ask for tution for his/her own requirement
+  1. can find suitable Student by searching and this need to filling requirement also
+  2. also ask for tution for his/her own interest
